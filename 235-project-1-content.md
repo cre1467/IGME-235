@@ -47,12 +47,13 @@ apothecary. The combinations are as follows.
 * 2 Unicorn Horns + Fire Potion = Unicorn Horn Powder
 * Chopped Rose Petals + unicorn Horn Powder = Diamond of Immortality
 * Squid Eye (if you possess the Book of Secrets) = 3 Gold Coins
-  * The Book of Secrets is a rare drop acquired by raiding the apothecary You can
-attack or defend yourself with items that have a strength. This is determined as
-the total cost of the ingredients in Gold Coins plus the number of brewing steps
-required to make it. The Diamond of Immortality is unique in that it cannot be
-used offensively, but it is the only defense against the almighty Emerald of
-Power.
+  * The Book of Secrets is a rare drop acquired by raiding the apothecary 
+  
+You canattack or defend yourself with items that have a strength. This is 
+determined asthe total cost of the ingredients in Gold Coins plus the number 
+of brewing steps required to make it. The Diamond of Immortality is unique in
+that it cannot be used offensively, but it is the only defense against the 
+almighty Emerald of Power.
 
  ### Control
  The controls for desktop are mouse only. For mobile the only control is
