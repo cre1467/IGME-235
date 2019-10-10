@@ -5,9 +5,11 @@ Starting with minimal items, carefully combine them in your cauldron to get new,
  stronger items, and use them to attack your opponent and defend yourself
  against them.
 
- ## Genre Virtual card game
+ ## Genre 
+ Virtual card game
 
- ## Platform Designed for web, mobile-friendly
+ ## Platform 
+ Designed for web, mobile-friendly
 
  ## Story
  You are a poor sorcerer dabbling in alchemy, and have but two gold coins. If
@@ -42,7 +44,7 @@ apothecary. The combinations are as follows.
 * 2 Unicorn Horns + Fire Potion = Unicorn Horn Powder
 * Chopped Rose Petals + unicorn Horn Powder = Diamond of Immortality
 * Squid Eye (if you possess the Book of Secrets) = 3 Gold Coins
-* The Book of Secrets is a rare drop acquired by raiding the apothecary You can
+  * The Book of Secrets is a rare drop acquired by raiding the apothecary You can
 attack or defend yourself with items that have a strength. This is determined as
 the total cost of the ingredients in Gold Coins plus the number of brewing steps
 required to make it. The Diamond of Immortality is unique in that it cannot be
@@ -60,7 +62,8 @@ forced to discovered the garlic + coin brew very early. There is no penalty for
 attempting a brew that doesn't work, your turn is not over until you make a
 valid brew.
 
-## Screenshots A screenshot of a mockup can be seen
+## Screenshots 
+A screenshot of a mockup can be seen
 [here](https://people.rit.edu/cre1467/235/project1/images/Capture.PNG). Colors
 are added simply to show contrast between sections and are not intended in the
 final version.
