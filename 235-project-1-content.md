@@ -21,8 +21,8 @@ The graphics in the game will be pixel art. The sound will be ambient music
 suitable for a medieval time period. 
 
 ## Gameplay 
-### Mechanics The game
-consists of a number of cards that you may possess, either by buying or
+### Mechanics T
+The game consists of a number of cards that you may possess, either by buying or
 brewing. You begin with only two gold coin cards, and must increase your
 wealth and power from there. The cards purchasable at the apothecary(store) are
 
